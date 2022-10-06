@@ -4,7 +4,7 @@ game 'gta5'
 author '!Stingz'
 description 'pawnshop Job'
 -- [[ Version ]] --
-version '1.1.4'
+version '1.1.5'
 
 shared_scripts {
     'config.lua'
