@@ -16,7 +16,7 @@ qb-menu - https://github.com/qbcore-framework/qb-menu
 ```
 QBShared.Jobs = {
     ["pawnshop"] = {
-		label = "Limey\'s Juice Shop",
+		label = "PawnShop",
 		defaultDuty = true,
 		grades = {
             ['0'] = {
